@@ -12,3 +12,4 @@ def main():
 		print(square)
 		
 main()
+print("Git checking")
